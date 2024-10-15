@@ -15,3 +15,7 @@
 
 ## About This Project
 EcoHaul app was developed with the main objective of serving as a bridge between consumers with waste and recyclers. To achieve this goal, the EcoHaul app is equipped with several features, such as pick up, drop off, redeeming rewards, and also newsletters to increase consumer awareness of the importance of waste recycling. The EcoHaul app is expected to play a real role in realizing a cleaner environment by encouraging people to contribute more to environmental maintenance efforts.
+
+# Documentation
+Web Demo Link: https://drive.google.com/file/d/19xsJvVM_nGF7zB5zq3aRWTrMXILUaVtv/view?usp=sharing
+Documentation Link: https://docs.google.com/document/d/1xRPvhOq9CclTkuQXjGDxjcdGHbI20CFSj3nXBi2B-do/edit?usp=sharing
